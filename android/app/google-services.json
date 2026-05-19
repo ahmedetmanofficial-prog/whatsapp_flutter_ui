@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "491279298066",
+    "firebase_url": "https://english-training-app-679de-default-rtdb.firebaseio.com",
+    "project_id": "english-training-app-679de",
+    "storage_bucket": "english-training-app-679de.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491279298066:android:dcc866c6461dfcddeaf2cb",
+        "android_client_info": {
+          "package_name": "com.example.my_first_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClydsd5vS-UPAHnspIAfYjNgvScliDIZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
